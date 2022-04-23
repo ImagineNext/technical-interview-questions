@@ -3,3 +3,5 @@
 ### To prepare specifically  for System design interviews
 - https://www.youtube.com/watch?v=5vyKhm2NTfw&list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT
 - https://bigfrontend.dev/design
+### To prepare specifically for problem sovling
+- Check the famouns Blind 75 challanges https://www.techinterviewhandbook.org/best-practice-questions
